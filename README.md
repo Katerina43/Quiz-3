@@ -1,2 +1,2 @@
 # Quiz-3
-Quiz 3_Peijin Huang
+An example of using golden section search method to solve the local minimun.
